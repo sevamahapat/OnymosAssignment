@@ -22,7 +22,7 @@ This project implements a real-time stock trading engine that matches buy and se
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sevamahapat/stock-trading-engine.git
+git clone https://github.com/sevamahapat/OnymosAssignment.git
 cd stock-trading-engine
 ```
 
